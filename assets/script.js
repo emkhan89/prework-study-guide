@@ -19,7 +19,11 @@ function selectTopic() {
    console.log('Please try again!');
  }
 }
+<<<<<<< HEAD
+*/
+=======
 
 
 
+>>>>>>> bf39a00bb96c6f728fc2b459091019f873638067
 
